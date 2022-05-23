@@ -12,6 +12,9 @@ public class MainABC {
         b.b();
 
         C c = new C();
+
+        c.a();
+        c.b();
         c.c();
         
 }
